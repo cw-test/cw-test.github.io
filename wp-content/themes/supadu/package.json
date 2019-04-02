@@ -1,0 +1,24 @@
+{
+  "name": "supadutechtest",
+  "version": "1.0.0",
+  "description": "Supadü Technical Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/cwoolf123/supadu-v2-front-end-test-chris-woolf/src/master/"
+  },
+  "keywords": [
+    "Supadü",
+    "Tech",
+    "Test"
+  ],
+  "author": "Chris Woolf",
+  "license": "GPL-2.0+",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {}
+}

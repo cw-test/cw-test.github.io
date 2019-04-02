@@ -1,0 +1,33 @@
+/* HEADLINE */
+svg {
+    background: #ebe7e0;
+    position: relative;
+    left: -.5em; }
+  
+  text {
+    fill: #1c1c1c;
+    -webkit-filter: url("#money");
+            filter: url("#money");
+    font-family: 'Playfair Display', 'Georgia', serif;
+    font-size: 100px;
+    font-weight: 900;
+    word-break: break-word; }
+  
+  .module {
+    width: 100vw;
+    height: 100%;
+    background: none;
+    position: relative;
+    margin: 0px; }
+  
+  .frame {
+    position: absolute;
+    display: fixed;
+    width: 50vw;
+    height: 100%; }
+
+.paper-feed {
+    position: relative;
+    padding: 1em;
+    text-align: center;
+}
